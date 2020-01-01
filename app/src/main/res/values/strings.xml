@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="app_short_name">Cronometro</string>
+    <string name="app_state_stopped">è fermo.</string>
+    <string name="app_state_running">è avviato.</string>
+    <string name="app_state_background">è avviato in background.</string>
+    <string name="warning_lap_button">avvia il cronometro!</string>
+    <string name="warning_max_giri">100 giri raggiunti!</string>
+</resources>
